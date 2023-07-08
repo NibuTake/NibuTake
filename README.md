@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Preferences
+- DevOps
+    - Chaos engineering
+    - Test maintainability
 <!--
 **NibuTake/NibuTake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
