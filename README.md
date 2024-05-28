@@ -6,7 +6,6 @@
 - Links
     - [DEA OSS](https://github.com/NibuTake/PyDEA)
     - [DEA article](https://www.sciencedirect.com/science/article/pii/S235271022200715X)
-    - [JaSST23 Chaos engineering](https://www.jasst.jp/symposium/jasst23kansai/details.html#S5)
 <!--
 **NibuTake/NibuTake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
